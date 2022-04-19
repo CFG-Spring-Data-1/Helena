@@ -1,2 +1,2 @@
 # Helena
-Helena's Homework and assignments for CFG Nanodegree 
+Helena's Homework and other assignments for CFG Nanodegree
